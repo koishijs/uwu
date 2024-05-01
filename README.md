@@ -1,6 +1,11 @@
-# Koishi UwU
+<div align="center">
+  <a href="https://koishi.chat/?uwu" target="_blank">
+    <img width="560" src="./koishi-uwu.png" alt="logo">
+  </a>
+  <h1 id="koishi"><a href="https://koishi.chat/?uwu" target="_blank">Koishi UwU</a></h1>
+  <p>Koishi VTuberized Logo.</p>
 
-Koishi VTuberized Logo.
+</div>
 
 > [!Important]
 > In no circumstances do I allow the use of a logo I created for AI learning.
