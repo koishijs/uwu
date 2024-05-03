@@ -22,7 +22,9 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 
 > [!NOTE]
+> - **The font required additional licensing. Please go to the [LETS Website](https://lets.fontworks.co.jp/) for more information.**
 > - The creator of these logos is Lipraty. Copyright is not fully relinquished.
 > - You CAN'T use this logo for commercial purposes.
+> - The Koishijs organization and its members have the right to use this logo for any purpose.(Except for the font.)
 
 Copyright © 2024 [@Lipraty](https://github.com/Lipraty) All Rights Reserved.
