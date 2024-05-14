@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://koishi.chat/?uwu" target="_blank">
-    <img width="560" src="./koishi-uwu.png" alt="logo">
+    <img width="520" src="./koishi-uwu.png" alt="logo">
   </a>
   <h1 id="koishi"><a href="https://koishi.chat/?uwu" target="_blank">Koishi UwU</a></h1>
   <p>Koishi VTuberized Logo.</p>
@@ -12,8 +12,8 @@
 
 ## Tools used for designing
 
-- Adobe Photoshop
-- Adobe Illustrator
+- Adobe Photoshop 2023 (Chinese ver.)
+- Adobe Illustrator 2023
 - Font: FOT - ユールカ (FOT - Eureka)
 
 ## License
