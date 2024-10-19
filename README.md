@@ -1,10 +1,9 @@
 <div align="center">
-  <a href="https://koishi.chat/?uwu" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" src="./koishi-uwu-dark.png" alt="koishi uwu dark logo">
-      <img width="520" src="./koishi-uwu.png" alt="koishi uwu light logo">
-    </picture>
-  </a>
+
+
+[![Koishi UwU Logo](./koishi-uwu-dark@0.5x.png#gh-dark-mode-only)](https://koishi.chat/?uwu)
+[![Koishi UwU Logo](./koishi-uwu-light@0.5x.png#gh-light-mode-only)](https://koishi.chat/?uwu)
+
   <h1 id="koishi"><a href="https://koishi.chat/?uwu" target="_blank">Koishi UwU</a></h1>
   <p>Koishi VTuberized Logo.</p>
 
