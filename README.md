@@ -1,8 +1,8 @@
 <div align="center">
 
 
-[![Koishi UwU Logo](./koishi-uwu-dark@0.5x.png#gh-dark-mode-only)](https://koishi.chat/?uwu)
-[![Koishi UwU Logo](./koishi-uwu-light@0.5x.png#gh-light-mode-only)](https://koishi.chat/?uwu)
+![Koishi UwU Logo](./koishi-uwu-dark@0.5x.png#gh-dark-mode-only)
+![Koishi UwU Logo](./koishi-uwu-light@0.5x.png#gh-light-mode-only)
 
   <h1 id="koishi"><a href="https://koishi.chat/?uwu" target="_blank">Koishi UwU</a></h1>
   <p>Koishi VTuberized Logo.</p>
